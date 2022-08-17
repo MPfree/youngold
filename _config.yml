@@ -2,8 +2,8 @@ remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 
-title: Minimal JS Image Classifiers
-description: Some basic examples of client interfaces to a computer vision API
+title: Youg and Old person classifier
+description: Find out if a person is ancient or fledgling!
 
 author:
-  name: Jeremy Howard
+  name: Tom Kreynin
